@@ -1,0 +1,82 @@
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/appsettings.Development.json
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/appsettings.json
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Exchange.Producer
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Exchange.Producer.deps.json
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Exchange.Producer.runtimeconfig.json
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Exchange.Producer.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Exchange.Producer.pdb
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/AWSSDK.Core.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/AWSSDK.Extensions.NETCore.Setup.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/AWSSDK.SQS.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/AWSSDK.SSO.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/AWSSDK.SSOOIDC.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Exchange.Models.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/bin/Debug/net8.0/Exchange.Models.pdb
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/Exchange.Producer.csproj.AssemblyReference.cache
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/Exchange.Producer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/Exchange.Producer.AssemblyInfoInputs.cache
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/Exchange.Producer.AssemblyInfo.cs
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/Exchange.Producer.csproj.CoreCompileInputs.cache
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/Exchange.Producer.MvcApplicationPartsAssemblyInfo.cs
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/Exchange.Producer.MvcApplicationPartsAssemblyInfo.cache
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/staticwebassets.build.json
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/staticwebassets.development.json
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/staticwebassets/msbuild.Exchange.Producer.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/staticwebassets/msbuild.build.Exchange.Producer.props
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Exchange.Producer.props
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Exchange.Producer.props
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/scopedcss/bundle/Exchange.Producer.styles.css
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/Exchange.C6C5EA18.Up2Date
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/Exchange.Producer.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/refint/Exchange.Producer.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/Exchange.Producer.pdb
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/Exchange.Producer.genruntimeconfig.cache
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Producer/obj/Debug/net8.0/ref/Exchange.Producer.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Exchange.Producer.exe
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Exchange.Producer.deps.json
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Exchange.Producer.runtimeconfig.json
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Exchange.Producer.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Exchange.Producer.pdb
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\AWSSDK.SQS.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\AWSSDK.SSO.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\AWSSDK.SSOOIDC.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Exchange.Models.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\bin\Debug\net8.0\Exchange.Models.pdb
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\Exchange.Producer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\Exchange.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\Exchange.Producer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\Exchange.Producer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\Exchange.Producer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\Exchange.Producer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\Exchange.Producer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\staticwebassets\msbuild.Exchange.Producer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\staticwebassets\msbuild.build.Exchange.Producer.props
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exchange.Producer.props
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Exchange.Producer.props
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\scopedcss\bundle\Exchange.Producer.styles.css
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\Exchange.C6C5EA18.Up2Date
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\Exchange.Producer.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\refint\Exchange.Producer.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\Exchange.Producer.pdb
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\Exchange.Producer.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Producer\obj\Debug\net8.0\ref\Exchange.Producer.dll

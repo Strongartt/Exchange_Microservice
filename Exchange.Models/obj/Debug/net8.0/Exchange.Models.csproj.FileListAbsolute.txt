@@ -1,0 +1,22 @@
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Models/bin/Debug/net8.0/Exchange.Models.deps.json
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Models/bin/Debug/net8.0/Exchange.Models.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Models/bin/Debug/net8.0/Exchange.Models.pdb
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Models/obj/Debug/net8.0/Exchange.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Models/obj/Debug/net8.0/Exchange.Models.AssemblyInfoInputs.cache
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Models/obj/Debug/net8.0/Exchange.Models.AssemblyInfo.cs
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Models/obj/Debug/net8.0/Exchange.Models.csproj.CoreCompileInputs.cache
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Models/obj/Debug/net8.0/Exchange.Models.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Models/obj/Debug/net8.0/refint/Exchange.Models.dll
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Models/obj/Debug/net8.0/Exchange.Models.pdb
+/Users/davidrueda/Desktop/Proyecto Richie/Exchange_Microservice/Exchange.Models/obj/Debug/net8.0/ref/Exchange.Models.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Models\bin\Debug\net8.0\Exchange.Models.deps.json
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Models\bin\Debug\net8.0\Exchange.Models.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Models\bin\Debug\net8.0\Exchange.Models.pdb
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Models\obj\Debug\net8.0\Exchange.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Models\obj\Debug\net8.0\Exchange.Models.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Models\obj\Debug\net8.0\Exchange.Models.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Models\obj\Debug\net8.0\Exchange.Models.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Models\obj\Debug\net8.0\Exchange.Models.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Models\obj\Debug\net8.0\refint\Exchange.Models.dll
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Models\obj\Debug\net8.0\Exchange.Models.pdb
+C:\Users\ASUS\Desktop\Exchanges\Exchange_Microservice\Exchange_Microservice\Exchange.Models\obj\Debug\net8.0\ref\Exchange.Models.dll

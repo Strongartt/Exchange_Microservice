@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r5wHp1+bRhXp2yoz1ysES3lejzAWLAkyd6GLEIKsVig=",
+  "Source": "Exchange.Consumer",
+  "BasePath": "_content/Exchange.Consumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
